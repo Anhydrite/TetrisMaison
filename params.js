@@ -1,0 +1,10 @@
+let Cube = 0;
+let cubeTaille = 40;
+let canvasWidth = cubeTaille * 16;
+let canvasHeigth = 720;
+let compteur = 0;
+let slider;
+let rightPressed = false;
+let leftPressed = false;
+let upPressed = false;
+let fixedCube = [];
